@@ -1,11 +1,11 @@
-### Hello 👋
+# Hello, I'm Chris 👋
 
-Sometimes, my friends call me **Woooooooooooo** or **Woozzie**.
+I graduated from Concordia University in Bachelor of Engineering in Software Engineering :school:. I also helped
+organize ConUHacks IV and V, the biggest hackathon in Montreal at Concordia University!
 
-I graduated from Concordia University in Bachelor of Engineering in Software Engineering and completed my quest to get the engineering iron ring. 
-I also helped organize ConUHacks IV and V, the biggest hackathon in Montreal at Concordia University.
+:computer: Currently, I'm working a Software Engineer @ [DRW](https://drw.com/)
 
-I'm currently a Software Engineer @ [DRW](https://drw.com/)
+Checkout my personal website: [chriswoo.me](chriswoo.me)
 
 <!--
 **chriskfwoo/chriskfwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
