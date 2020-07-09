@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Sometimes, my friends call me **Woooooooooooo** or **Woozzie**.
+
+I graduated from Concordia University in Bachelor of Engineering in Software Engineering and completed my quest to get the iron ring. 
+
+I also helped organize ConUHacks IV and V, the biggest hackathon in Montreal at Concordia University.
+
+I'm passionate about travelling, sports, space, and coding. Some of my role models are Chris Hadfield, Gary Vaynerchuk, Casey Neistat, and Mom.
+
+I'm currently a Software Engineer @ [DRW](https://drw.com/)
+
 <!--
 **chriskfwoo/chriskfwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
