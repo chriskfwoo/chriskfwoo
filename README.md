@@ -1,8 +1,7 @@
 # Hello, I'm Chris 👋
 
-I graduated from Concordia University in Bachelor of Engineering in Software Engineering :school:.
-
-I also helped organize ConUHacks IV and V, the biggest hackathon in Montreal at Concordia University!
+I graduated from Concordia University in Bachelor of Engineering in Software Engineering :school:. I also helped
+organize ConUHacks IV and V, the biggest hackathon in Montreal at Concordia University!
 
 Currently, I'm working a Software Engineer @ [DRW](https://drw.com/) :computer: 
 
