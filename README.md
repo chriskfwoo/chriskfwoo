@@ -7,8 +7,6 @@ Currently, I'm a Software Engineer @ [DRW](https://drw.com/) :computer:
 
 Checkout my personal website: [chriswoo.me](https://chriswoo.me/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=chriskfwoo.chriskfwoo)
-
 <!--
 **chriskfwoo/chriskfwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chriskfwoo)](https://github.com/anuraghazra/github-readme-stats)
