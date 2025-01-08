@@ -5,7 +5,7 @@ organize ConUHacks IV and V, the biggest hackathon in Montreal at Concordia Univ
 
 Currently, I'm a Software Engineer @ [DRW](https://drw.com/) :computer: 
 
-Checkout my personal website: [woozzie.com](https://woozzie.com/)
+Checkout my personal website: [cwoo.ca](http://cwoo.ca/)
 
 <!--
 **chriskfwoo/chriskfwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
